@@ -8,3 +8,4 @@ here i develop different projects on use cases for auto encoders!
         - The heterogeinity of the images was more captured when i used a smaller batch size!
         - The weight decay was not useful!
         -  With a really small loss, is really important to decrease fastly the learning rate!
+        -  There were not many projects available that used this architecture to denoise RGB images!
