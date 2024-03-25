@@ -1,7 +1,7 @@
 # Autoencoders_Applications
 here i develop different projects on use cases for auto encoders!
 - DenoisingAutoencoders.ipynb:
-    - Here I had the opportunity of working with a really large dataset (taken from [here](https://www.kaggle.com/datasets/greatgamedota/ffhq-face-data-set/data])
+    - Here I had the opportunity of working with a really large dataset (taken from [here](https://www.kaggle.com/datasets/greatgamedota/ffhq-face-data-set/data]))
     - I tried using the GPU on colab but i had different issues with loading from the Drive all the files in a fast way
     - I decided to use this project as a learning experience but to start with a smaller subset
     - Observations:
