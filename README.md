@@ -9,3 +9,9 @@ Here i develop different projects on use cases for auto encoders!
         - The weight decay was not useful!
         - With a really small loss, is really important to decrease fastly the learning rate!
         - For comparison, there were not many projects available that used this architecture to denoise RGB images!
+     
+- Autoencoder_AnomalyDetection.ipynb:
+      - Several problems here:
+          - poor performances!
+          - I used a validation set for choosing the best threshold
+          - I used the split of the validation set with only healthy cell to check the loss during the training!
