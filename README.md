@@ -11,6 +11,7 @@ Here i develop different projects on use cases for auto encoders!
         - For comparison, there were not many projects available that used this architecture to denoise RGB images!
      
 - Autoencoder_AnomalyDetection.ipynb:
+  
       - Several problems here:
           - poor performances!
           - I used a validation set for choosing the best threshold
