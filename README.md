@@ -12,7 +12,9 @@ Here i develop different projects on use cases for auto encoders!
      
 - Autoencoder_AnomalyDetection.ipynb:
   
-      - Several problems here:
-          - poor performances!
-          - I used a validation set for choosing the best threshold
+      - Several remarks here:
+          - Not  good enough performances!
+          - I used a validation set for choosing the best threshold!
           - I used the split of the validation set with only healthy cell to check the loss during the training!
+          - The architecture was taken from "AnoMalNet: outlier detection based malaria cell image classification method leveraging deep autoencoder. Aminul Huq, Md Tanzim Reza, Shahriar Hossain, Shakib Mahmud Dipto"
+          
